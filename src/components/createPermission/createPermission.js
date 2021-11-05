@@ -45,8 +45,6 @@ function CreatePermission(props) {
     },
   });
 
-  
-  console.log(createPermissionResponse)
   return (
     <div className="pt-28 ">
       <div className="grid sm:grid-cols-2 mx-auto gap-0 place-items-center sm:w-1/2 w-full h-auto rounded-md p-2 bg-white text-left">
